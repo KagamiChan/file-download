@@ -1,3 +1,3 @@
 module.exports = {
-  '*.{ts,tsx}': 'tslint',
+  // '*.{ts,tsx}': 'tslint',
 }
